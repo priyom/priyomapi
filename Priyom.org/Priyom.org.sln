@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priyom.org", "Priyom.org\Priyom.org.csproj", "{126E7D23-85AC-441A-B12A-72158D4F73A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriyomAPI1", "..\PriyomAPI1\PriyomAPI1\PriyomAPI1.csproj", "{D1A3B20D-1D11-45A5-BC34-C16E9BEA7D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoUserControl1", "..\UmbracoUserControl1\UmbracoUserControl1\UmbracoUserControl1.csproj", "{BF9FE987-88CC-4E39-88B1-77CAFE62AAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126E7D23-85AC-441A-B12A-72158D4F73A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126E7D23-85AC-441A-B12A-72158D4F73A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126E7D23-85AC-441A-B12A-72158D4F73A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126E7D23-85AC-441A-B12A-72158D4F73A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A3B20D-1D11-45A5-BC34-C16E9BEA7D67}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A3B20D-1D11-45A5-BC34-C16E9BEA7D67}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D1A3B20D-1D11-45A5-BC34-C16E9BEA7D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A3B20D-1D11-45A5-BC34-C16E9BEA7D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9FE987-88CC-4E39-88B1-77CAFE62AAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9FE987-88CC-4E39-88B1-77CAFE62AAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9FE987-88CC-4E39-88B1-77CAFE62AAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9FE987-88CC-4E39-88B1-77CAFE62AAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
