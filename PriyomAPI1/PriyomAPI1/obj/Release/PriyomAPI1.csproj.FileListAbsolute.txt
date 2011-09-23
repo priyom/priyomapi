@@ -1,0 +1,17 @@
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\PriyomAPI1.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\PriyomAPI1.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.Unity.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\obj\Release\PriyomAPI1.dll
+C:\Users\Stefan\documents\visual studio 2010\Projects\PriyomAPI1\PriyomAPI1\obj\Release\PriyomAPI1.pdb

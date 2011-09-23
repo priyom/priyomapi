@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Stefan\Desktop\priyom\testcode2\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="bin/interfaces.dll" publishTime="09/22/2011 15:14:43" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml" publishTime="04/16/2010 14:11:52" />
+    <file relUrl="Global.asax" publishTime="09/22/2011 16:47:04" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.xml" publishTime="04/16/2010 14:11:48" />
+    <file relUrl="bin/umbraco.dll" publishTime="09/22/2011 15:14:43" />
+    <file relUrl="bin/PriyomAPI.dll" publishTime="09/22/2011 17:16:00" />
+    <file relUrl="bin/cms.dll" publishTime="09/22/2011 15:14:43" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.xml" publishTime="04/16/2010 14:11:56" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.pdb" publishTime="04/16/2010 14:11:52" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb" publishTime="04/16/2010 14:11:52" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.pdb" publishTime="04/16/2010 14:11:56" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.xml" publishTime="04/16/2010 14:11:52" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Database.xml" publishTime="04/16/2010 14:11:56" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.xml" publishTime="04/16/2010 14:11:50" />
+    <file relUrl="bin/businesslogic.dll" publishTime="09/22/2011 15:14:43" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.pdb" publishTime="04/16/2010 14:11:48" />
+    <file relUrl="bin/PriyomAPI1.pdb" publishTime="09/22/2011 17:11:26" />
+    <file relUrl="PriyomAPI.ascx" publishTime="09/22/2011 16:46:21" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Database.pdb" publishTime="04/16/2010 14:11:56" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.dll" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.pdb" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="bin/Microsoft.Practices.Unity.pdb" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="bin/umbraco.editorControls.dll" publishTime="09/22/2011 15:14:43" />
+    <file relUrl="Web.config" publishTime="09/22/2011 16:48:25" />
+    <file relUrl="bin/PriyomAPI1.dll" publishTime="09/22/2011 17:11:26" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.pdb" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.pdb" publishTime="04/16/2010 14:11:50" />
+    <file relUrl="bin/PriyomAPI.pdb" publishTime="09/22/2011 17:16:00" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll" publishTime="04/16/2010 14:16:58" />
+  </publishProfile>
+</publishData>

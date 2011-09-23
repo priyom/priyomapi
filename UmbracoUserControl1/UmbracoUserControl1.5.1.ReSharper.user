@@ -1,0 +1,47 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="PriyomAPI" priority="0" />
+      <Item value="GetXmlDoc`0" priority="1" />
+      <Item value="Xml1" priority="0" />
+      <Item value="XmlDocument`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:Web.config" caret="1444" fromTop="26" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx" caret="99" fromTop="0" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:Global.asax.cs" caret="805" fromTop="32" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx.designer.cs" caret="0" fromTop="0" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx.cs" caret="785" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:Web.config" caret="1444" fromTop="26" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx.cs" caret="235" fromTop="8" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx" caret="99" fromTop="0" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:Global.asax.cs" caret="513" fromTop="18" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:Global.asax.cs" caret="224" fromTop="8" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx.cs" caret="625" fromTop="19" />
+      <File id="BF9FE987-88CC-4E39-88B1-77CAFE62AAB3/f:PriyomAPI.ascx.cs" caret="853" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
