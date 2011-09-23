@@ -15,3 +15,20 @@ C:\Users\Stefan\Documents\Visual Studio 2010\Projects\PriyomAPI1\PriyomAPI1\bin\
 C:\Users\Stefan\Documents\Visual Studio 2010\Projects\PriyomAPI1\PriyomAPI1\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Stefan\Documents\Visual Studio 2010\Projects\PriyomAPI1\PriyomAPI1\obj\Debug\PriyomAPI1.dll
 C:\Users\Stefan\Documents\Visual Studio 2010\Projects\PriyomAPI1\PriyomAPI1\obj\Debug\PriyomAPI1.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\PriyomAPI1.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\PriyomAPI1.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\obj\Debug\PriyomAPI1.dll
+C:\Users\Stefan\Desktop\priyom\priyomapi\PriyomAPI1\PriyomAPI1\obj\Debug\PriyomAPI1.pdb
